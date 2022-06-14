@@ -1,0 +1,5 @@
+SRC_DIRECTORY,DST_DIRECTORY,FILTER
+Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos,C:\Users\wesle\OneDrive\Bilder\_SYNC,.jpg
+Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos,C:\Users\wesle\OneDrive\Bilder\_SYNC,.png
+Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos,C:\Users\wesle\OneDrive\Bilder\_SYNC,.mp4
+F:\MediaProjects\Videos\2022\,Z:\MediaProjects\Video\PM_Files_archive\2022\,render*

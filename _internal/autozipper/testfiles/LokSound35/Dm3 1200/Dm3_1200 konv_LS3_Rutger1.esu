@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DecImage>
+	<InitData DecName="LokSound 3" FlashSize="8" Version="2.5.7.204"/>
+	<CVData001-008 CV1="3" CV2="4" CV3="6" CV4="4" CV5="34" CV6="15" CV7="0" CV8="151"/>
+	<CVData009-016 CV9="0" CV10="0" CV11="0" CV12="0" CV13="0" CV14="3" CV15="0" CV16="0"/>
+	<CVData017-024 CV17="192" CV18="0" CV19="0" CV20="0" CV21="0" CV22="0" CV23="0" CV24="0"/>
+	<CVData025-032 CV25="0" CV26="0" CV27="0" CV28="0" CV29="6" CV30="0" CV31="0" CV32="0"/>
+	<CVData033-040 CV33="0" CV34="0" CV35="0" CV36="0" CV37="0" CV38="0" CV39="0" CV40="0"/>
+	<CVData041-048 CV41="0" CV42="0" CV43="0" CV44="0" CV45="0" CV46="0" CV47="0" CV48="0"/>
+	<CVData049-056 CV49="19" CV50="3" CV51="3" CV52="0" CV53="50" CV54="32" CV55="24" CV56="64"/>
+	<CVData057-064 CV57="0" CV58="31" CV59="32" CV60="58" CV61="30" CV62="50" CV63="64" CV64="7"/>
+	<CVData065-072 CV65="0" CV66="0" CV67="3" CV68="5" CV69="7" CV70="9" CV71="10" CV72="12"/>
+	<CVData073-080 CV73="14" CV74="17" CV75="20" CV76="23" CV77="28" CV78="33" CV79="37" CV80="42"/>
+	<CVData081-088 CV81="48" CV82="54" CV83="59" CV84="65" CV85="69" CV86="74" CV87="79" CV88="84"/>
+	<CVData089-096 CV89="88" CV90="91" CV91="92" CV92="93" CV93="93" CV94="93" CV95="0" CV96="0"/>
+	<CVData097-104 CV97="0" CV98="0" CV99="0" CV100="0" CV101="0" CV102="0" CV103="0" CV104="0"/>
+	<CVData105-112 CV105="0" CV106="0" CV107="0" CV108="0" CV109="0" CV110="0" CV111="0" CV112="33"/>
+	<CVData113-120 CV113="15" CV114="15" CV115="15" CV116="15" CV117="0" CV118="0" CV119="0" CV120="0"/>
+	<CVData121-128 CV121="0" CV122="0" CV123="0" CV124="0" CV125="110" CV126="127" CV127="50" CV128="122"/>
+	<CVData129-136 CV129="0" CV130="0" CV131="0" CV132="0" CV133="0" CV134="0" CV135="0" CV136="0"/>
+	<CVData137-144 CV137="0" CV138="0" CV139="0" CV140="0" CV141="1" CV142="0" CV143="0" CV144="2"/>
+	<CVData145-152 CV145="0" CV146="0" CV147="0" CV148="4" CV149="0" CV150="0" CV151="4" CV152="0"/>
+	<CVData153-160 CV153="0" CV154="0" CV155="1" CV156="0" CV157="0" CV158="1" CV159="0" CV160="0"/>
+	<CVData161-168 CV161="2" CV162="0" CV163="0" CV164="2" CV165="0" CV166="0" CV167="3" CV168="0"/>
+	<CVData169-176 CV169="0" CV170="3" CV171="0" CV172="0" CV173="4" CV174="0" CV175="0" CV176="4"/>
+	<CVData177-184 CV177="0" CV178="3" CV179="0" CV180="0" CV181="3" CV182="0" CV183="0" CV184="0"/>
+	<CVData185-192 CV185="0" CV186="0" CV187="0" CV188="0" CV189="0" CV190="0" CV191="0" CV192="0"/>
+	<CVData193-200 CV193="0" CV194="0" CV195="0" CV196="0" CV197="0" CV198="0" CV199="0" CV200="0"/>
+	<CVData201-208 CV201="0" CV202="0" CV203="0" CV204="0" CV205="0" CV206="0" CV207="0" CV208="0"/>
+	<CVData209-216 CV209="0" CV210="0" CV211="0" CV212="0" CV213="0" CV214="0" CV215="0" CV216="0"/>
+	<CVData217-224 CV217="0" CV218="0" CV219="0" CV220="0" CV221="0" CV222="0" CV223="0" CV224="0"/>
+	<CVData225-232 CV225="0" CV226="0" CV227="0" CV228="0" CV229="0" CV230="0" CV231="0" CV232="0"/>
+	<CVData233-240 CV233="0" CV234="0" CV235="0" CV236="0" CV237="0" CV238="0" CV239="0" CV240="0"/>
+	<CVData241-248 CV241="0" CV242="0" CV243="0" CV244="0" CV245="0" CV246="0" CV247="0" CV248="0"/>
+	<CVData249-256 CV249="0" CV250="0" CV251="0" CV252="0" CV253="0" CV254="0" CV255="0" CV256="0"/>
+	<CVData257-264 CV257="0" CV258="0" CV259="0" CV260="0" CV261="0" CV262="0" CV263="0" CV264="0"/>
+	<CVData265-272 CV265="0" CV266="0" CV267="0" CV268="0" CV269="0" CV270="0" CV271="0" CV272="0"/>
+	<CVData273-280 CV273="0" CV274="0" CV275="0" CV276="0" CV277="0" CV278="0" CV279="0" CV280="0"/>
+	<CVData281-288 CV281="0" CV282="0" CV283="0" CV284="0" CV285="0" CV286="0" CV287="0" CV288="0"/>
+	<CVData289-296 CV289="0" CV290="0" CV291="0" CV292="0" CV293="0" CV294="0" CV295="0" CV296="0"/>
+	<CVData297-304 CV297="0" CV298="0" CV299="0" CV300="0" CV301="0" CV302="0" CV303="0" CV304="0"/>
+	<CVData305-312 CV305="0" CV306="0" CV307="0" CV308="0" CV309="0" CV310="0" CV311="0" CV312="0"/>
+	<CVData313-320 CV313="0" CV314="0" CV315="0" CV316="0" CV317="0" CV318="0" CV319="0" CV320="0"/>
+	<CVData321-328 CV321="0" CV322="0" CV323="0" CV324="0" CV325="0" CV326="0" CV327="0" CV328="0"/>
+	<CVData329-336 CV329="0" CV330="0" CV331="0" CV332="0" CV333="0" CV334="0" CV335="0" CV336="0"/>
+	<CVData337-344 CV337="0" CV338="0" CV339="0" CV340="0" CV341="0" CV342="0" CV343="0" CV344="0"/>
+	<CVData345-352 CV345="0" CV346="0" CV347="0" CV348="0" CV349="0" CV350="0" CV351="0" CV352="0"/>
+	<CVData353-360 CV353="0" CV354="0" CV355="0" CV356="0" CV357="0" CV358="0" CV359="0" CV360="0"/>
+	<CVData361-368 CV361="0" CV362="0" CV363="0" CV364="0" CV365="0" CV366="0" CV367="0" CV368="0"/>
+	<CVData369-376 CV369="0" CV370="0" CV371="0" CV372="0" CV373="0" CV374="0" CV375="0" CV376="0"/>
+	<CVData377-384 CV377="0" CV378="0" CV379="0" CV380="0" CV381="0" CV382="0" CV383="0" CV384="0"/>
+	<CVData385-392 CV385="0" CV386="0" CV387="0" CV388="0" CV389="0" CV390="0" CV391="0" CV392="0"/>
+	<CVData393-400 CV393="0" CV394="0" CV395="0" CV396="0" CV397="0" CV398="0" CV399="0" CV400="0"/>
+	<CVData401-408 CV401="0" CV402="0" CV403="0" CV404="0" CV405="0" CV406="0" CV407="0" CV408="0"/>
+	<CVData409-416 CV409="0" CV410="0" CV411="0" CV412="0" CV413="0" CV414="0" CV415="0" CV416="0"/>
+	<CVData417-424 CV417="0" CV418="0" CV419="0" CV420="0" CV421="0" CV422="0" CV423="0" CV424="0"/>
+	<CVData425-432 CV425="0" CV426="0" CV427="0" CV428="0" CV429="0" CV430="0" CV431="0" CV432="0"/>
+	<CVData433-440 CV433="0" CV434="0" CV435="0" CV436="0" CV437="0" CV438="0" CV439="0" CV440="0"/>
+	<CVData441-448 CV441="0" CV442="0" CV443="0" CV444="0" CV445="0" CV446="0" CV447="0" CV448="0"/>
+	<CVData449-456 CV449="0" CV450="0" CV451="0" CV452="0" CV453="0" CV454="0" CV455="0" CV456="0"/>
+	<CVData457-464 CV457="0" CV458="0" CV459="0" CV460="0" CV461="0" CV462="0" CV463="0" CV464="0"/>
+	<CVData465-472 CV465="0" CV466="0" CV467="0" CV468="0" CV469="0" CV470="0" CV471="0" CV472="0"/>
+	<CVData473-480 CV473="0" CV474="0" CV475="0" CV476="0" CV477="0" CV478="0" CV479="0" CV480="0"/>
+	<CVData481-488 CV481="0" CV482="0" CV483="0" CV484="0" CV485="0" CV486="0" CV487="0" CV488="0"/>
+	<CVData489-496 CV489="0" CV490="0" CV491="0" CV492="0" CV493="0" CV494="0" CV495="0" CV496="0"/>
+	<CVData497-504 CV497="0" CV498="0" CV499="0" CV500="0" CV501="0" CV502="0" CV503="0" CV504="0"/>
+	<CVData505-512 CV505="0" CV506="0" CV507="0" CV508="0" CV509="0" CV510="0" CV511="0" CV512="0"/>
+	<SVData>
+		<SV ID="513" Value="0"/>
+		<SV ID="514" Value="0"/>
+		<SV ID="515" Value="0"/>
+	</SVData>
+	<meta>
+		<name DE=""/>
+		<description>
+			<DE/>
+		</description>
+		<function/>
+	</meta>
+	<sound>
+		<config>
+      <param index="0" value="2"/>
+      <param index="1" value="0"/>
+      <param index="2" value="128"/>
+      <param index="3" value="0"/>
+      <param index="4" value="0"/>
+      <param index="5" value="0"/>
+      <param index="6" value="0"/>
+      <param index="7" value="0"/>
+      <param index="8" value="0"/>
+      <param index="9" value="0"/>
+      <param index="10" value="0"/>
+      <param index="11" value="0"/>
+      <param index="12" value="0"/>
+      <param index="13" value="0"/>
+      <param index="14" value="0"/>
+      <param index="15" value="0"/>
+      <param index="16" value="255"/>
+      <param index="17" value="0"/>
+      <param index="18" value="1"/>
+      <param index="19" value="0"/>
+      <param index="20" value="127"/>
+      <param index="21" value="1"/>
+      <param index="22" value="128"/>
+      <param index="23" value="255"/>
+      <param index="24" value="0"/>
+      <param index="25" value="0"/>
+      <param index="26" value="0"/>
+      <param index="27" value="0"/>
+      <param index="28" value="0"/>
+      <param index="29" value="0"/>
+      <param index="30" value="0"/>
+      <param index="31" value="0"/>
+      <param index="32" value="0"/>
+      <param index="33" value="0"/>
+      <param index="34" value="0"/>
+      <param index="35" value="0"/>
+      <param index="36" value="0"/>
+      <param index="37" value="0"/>
+      <param index="38" value="0"/>
+      <param index="39" value="0"/>
+      <param index="40" value="0"/>
+      <param index="41" value="0"/>
+      <param index="42" value="0"/>
+      <param index="43" value="0"/>
+      <param index="44" value="0"/>
+      <param index="45" value="0"/>
+      <param index="46" value="0"/>
+      <param index="47" value="0"/>
+      <param index="48" value="0"/>
+      <param index="49" value="0"/>
+      <param index="50" value="0"/>
+      <param index="51" value="0"/>
+      <param index="52" value="0"/>
+      <param index="53" value="0"/>
+      <param index="54" value="0"/>
+      <param index="55" value="0"/>
+      <param index="56" value="0"/>
+      <param index="57" value="0"/>
+      <param index="58" value="0"/>
+      <param index="59" value="0"/>
+      <param index="60" value="0"/>
+      <param index="61" value="0"/>
+      <param index="62" value="0"/>
+      <param index="63" value="0"/>
+      <param index="64" value="0"/>
+      <param index="65" value="0"/>
+      <param index="66" value="0"/>
+      <param index="67" value="0"/>
+      <param index="68" value="0"/>
+      <param index="69" value="0"/>
+      <param index="70" value="0"/>
+      <param index="71" value="0"/>
+      <param index="72" value="0"/>
+      <param index="73" value="0"/>
+      <param index="74" value="0"/>
+      <param index="75" value="0"/>
+      <param index="76" value="0"/>
+      <param index="77" value="0"/>
+      <param index="78" value="0"/>
+      <param index="79" value="0"/>
+      <param index="80" value="0"/>
+      <param index="81" value="0"/>
+      <param index="82" value="0"/>
+      <param index="83" value="0"/>
+      <param index="84" value="0"/>
+      <param index="85" value="0"/>
+      <param index="86" value="0"/>
+      <param index="87" value="0"/>
+      <param index="88" value="0"/>
+      <param index="89" value="0"/>
+      <param index="90" value="0"/>
+      <param index="91" value="0"/>
+      <param index="92" value="0"/>
+      <param index="93" value="0"/>
+      <param index="94" value="0"/>
+      <param index="95" value="0"/>
+      <param index="96" value="0"/>
+      <param index="97" value="0"/>
+      <param index="98" value="0"/>
+      <param index="99" value="0"/>
+      <param index="100" value="0"/>
+      <param index="101" value="0"/>
+      <param index="102" value="0"/>
+      <param index="103" value="0"/>
+      <param index="104" value="0"/>
+      <param index="105" value="0"/>
+      <param index="106" value="0"/>
+      <param index="107" value="0"/>
+      <param index="108" value="0"/>
+      <param index="109" value="0"/>
+      <param index="110" value="0"/>
+      <param index="111" value="0"/>
+      <param index="112" value="0"/>
+      <param index="113" value="0"/>
+      <param index="114" value="0"/>
+      <param index="115" value="0"/>
+      <param index="116" value="0"/>
+      <param index="117" value="0"/>
+      <param index="118" value="0"/>
+      <param index="119" value="0"/>
+      <param index="120" value="0"/>
+      <param index="121" value="0"/>
+      <param index="122" value="0"/>
+      <param index="123" value="0"/>
+      <param index="124" value="0"/>
+      <param index="125" value="0"/>
+      <param index="126" value="0"/>
+      <param index="127" value="0"/>
+    </config>
+	</sound>
+</DecImage>

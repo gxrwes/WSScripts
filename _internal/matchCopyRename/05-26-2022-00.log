@@ -1,0 +1,59 @@
+[ 05/26/2022 00:47:49 ] -DEBUG-	 User Regex: .*\.jpg
+
+[ 05/26/2022 00:48:07 ] -DEBUG-	 User Regex: .*
+
+[ 05/26/2022 00:48:19 ] -     -	 EXT: jpg
+
+[ 05/26/2022 00:48:19 ] -     -	 Renaming: ON
+
+[ 05/26/2022 00:48:25 ] -     -	 Regex:  .*
+
+[ 05/26/2022 00:48:25 ] -     -	 Prefix custom:  _
+
+[ 05/26/2022 00:48:25 ] -     -	 Starting with parameters:
+
+[ 05/26/2022 00:48:25 ] -     -	 Renaming: 		y
+
+[ 05/26/2022 00:48:25 ] -     -	 Renaming Prefix: 		_
+
+[ 05/26/2022 00:48:25 ] -     -	 Regex:		.*
+
+[ 05/26/2022 00:48:25 ] -     -	 Extension:		*.jpg
+
+[ 05/26/2022 00:48:25 ] -     -	 From 	This PC\Galaxy A50\Phone
+
+[ 05/26/2022 00:48:25 ] -     -	 To 	F:\temp_bkup
+
+[ 05/26/2022 00:48:25 ] -     -	 Starting Crawl...
+
+[ 05/26/2022 00:48:25 ] -     -	 Found 0 files
+
+[ 05/26/2022 00:48:26 ] -     -	 Total touched files: 	0 
+Duplicates Found: 	0 
+EOF
+
+[ 05/26/2022 00:48:26 ] -     -	 |STARTING WLOG FOR: matchCopyRename 
+|	Date: 05/26/2022 00:47 +02:00
+|-------------------------------------
+[ 05/26/2022 00:48:07 ] -DEBUG-	 User Regex: .*
+[ 05/26/2022 00:48:19 ] -     -	 EXT: jpg
+[ 05/26/2022 00:48:19 ] -     -	 Renaming: ON
+[ 05/26/2022 00:48:25 ] -     -	 Regex:  .*
+[ 05/26/2022 00:48:25 ] -     -	 Prefix custom:  _
+[ 05/26/2022 00:48:25 ] -     -	 Starting with parameters:
+[ 05/26/2022 00:48:25 ] -     -	 Renaming: 		y
+[ 05/26/2022 00:48:25 ] -     -	 Renaming Prefix: 		_
+[ 05/26/2022 00:48:25 ] -     -	 Regex:		.*
+[ 05/26/2022 00:48:25 ] -     -	 Extension:		*.jpg
+[ 05/26/2022 00:48:25 ] -     -	 From 	This PC\Galaxy A50\Phone
+[ 05/26/2022 00:48:25 ] -     -	 To 	F:\temp_bkup
+[ 05/26/2022 00:48:25 ] -     -	 Starting Crawl...
+[ 05/26/2022 00:48:25 ] -     -	 Found 0 files
+[ 05/26/2022 00:48:26 ] -     -	 Total touched files: 	0 
+Duplicates Found: 	0 
+EOF
+ mCR.log
+-------------------------------------
+Log Saved 05-26-202200-48+02:00
+-------------------------------------
+

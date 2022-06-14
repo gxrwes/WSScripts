@@ -1,0 +1,258 @@
+[ 06/01/2022 20:38:42 ] -     -	 --------------------File Sync V 0.1--------------------
+
+[ 06/01/2022 20:38:42 ] -     -	 ...loading successful
+
+[ 06/01/2022 20:38:42 ] -     -	 ...loading configs
+
+[ 06/01/2022 20:38:42 ] -     -	 SRC Not File Found
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Testing for <C:\Users\wesle\OneDrive\scripts\filesync\CSV\src.txt> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Result <False> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Created New <C:\Users\wesle\OneDrive\scripts\filesync\CSV\src.txt> 
+
+[ 06/01/2022 20:38:42 ] -     -	 XXXXXXXXXXX: SRC_DIRECTORY,DST_DIRECTORY,FILTER
+
+[ 06/01/2022 20:38:42 ] -     -	 Add To FileAdded: SRC_DIRECTORY,DST_DIRECTORY,FILTER
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Testing for <C:\Users\wesle\OneDrive\scripts\filesync\CSV\dst.txt> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Result <False> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Created New <C:\Users\wesle\OneDrive\scripts\filesync\CSV\dst.txt> 
+
+[ 06/01/2022 20:38:42 ] -     -	 DST File Not Found
+
+[ 06/01/2022 20:38:42 ] -     -	 XXXXXXXXXXX: DIRECTORY,TYPE,COMMENT
+
+[ 06/01/2022 20:38:42 ] -     -	 Add To FileAdded: DIRECTORY,TYPE,COMMENT
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Testing for <C:\Users\wesle\OneDrive\scripts\filesync\CSV\config.cfg> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Result <False> 
+
+[ 06/01/2022 20:38:42 ] -     -	 MISC:: Created New <C:\Users\wesle\OneDrive\scripts\filesync\CSV\config.cfg> 
+
+[ 06/01/2022 20:38:42 ] -     -	 CFG Not File Found
+
+[ 06/01/2022 20:38:42 ] -     -	 XXXXXXXXXXX: Timestamp,TYPE,COMMENT
+
+[ 06/01/2022 20:38:42 ] -     -	 Add To FileAdded: Timestamp,TYPE,COMMENT
+
+[ 06/01/2022 20:38:42 ] -     -	 3/3 New Files Created
+
+[ 06/01/2022 20:38:42 ] -     -	 ...Loading Data
+
+[ 06/01/2022 20:38:42 ] -DEBUG-	 Building Menu
+
+[ 06/01/2022 20:38:42 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:41:17 ] -     -	 ----------------
+
+[ 06/01/2022 20:41:17 ] -     -	 ...Shutting Down
+
+[ 06/01/2022 20:41:17 ] -     -	 .
+
+[ 06/01/2022 20:41:17 ] -     -	 ...Good Bye
+
+[ 06/01/2022 20:41:17 ] -     -	 Shutting down...
+
+[ 06/01/2022 20:41:22 ] -     -	 --------------------File Sync V 0.1--------------------
+
+[ 06/01/2022 20:41:22 ] -     -	 ...loading successful
+
+[ 06/01/2022 20:41:22 ] -     -	 ...functions loaded
+
+[ 06/01/2022 20:41:22 ] -     -	 ...loading configs
+
+[ 06/01/2022 20:41:22 ] -     -	 SRC File Found 
+
+[ 06/01/2022 20:41:22 ] -     -	 DST File Found
+
+[ 06/01/2022 20:41:22 ] -     -	 CFG File Found
+
+[ 06/01/2022 20:41:22 ] -     -	 0/3 New Files Created
+
+[ 06/01/2022 20:41:22 ] -     -	 ...Loading Data
+
+[ 06/01/2022 20:41:22 ] -DEBUG-	 Building Menu
+
+[ 06/01/2022 20:41:22 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+
+[ 06/01/2022 20:41:25 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:41:43 ] -     -	 --------------------------
+
+[ 06/01/2022 20:41:43 ] -     -	 Add a new Source-Directory
+
+[ 06/01/2022 20:43:00 ] -     -	 Add To FileAdded: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos | C:\Users\wesle\OneDrive\Bilder\_SYNC, .jpg
+
+[ 06/01/2022 20:43:00 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:43:08 ] -     -	 --------------------------
+
+[ 06/01/2022 20:43:08 ] -     -	 Add a new Source-Directory
+
+[ 06/01/2022 20:43:21 ] -     -	 --------------------File Sync V 0.1--------------------
+
+[ 06/01/2022 20:43:21 ] -     -	 ...loading successful
+
+[ 06/01/2022 20:43:21 ] -     -	 ...functions loaded
+
+[ 06/01/2022 20:43:21 ] -     -	 ...loading configs
+
+[ 06/01/2022 20:43:21 ] -     -	 SRC File Found 
+
+[ 06/01/2022 20:43:21 ] -     -	 DST File Found
+
+[ 06/01/2022 20:43:21 ] -     -	 CFG File Found
+
+[ 06/01/2022 20:43:21 ] -     -	 0/3 New Files Created
+
+[ 06/01/2022 20:43:21 ] -     -	 ...Loading Data
+
+[ 06/01/2022 20:43:21 ] -DEBUG-	 Building Menu
+
+[ 06/01/2022 20:43:21 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+
+[ 06/01/2022 20:43:24 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:43:30 ] -     -	 --------------------------
+
+[ 06/01/2022 20:43:30 ] -     -	 Add a new Source-Directory
+
+[ 06/01/2022 20:43:47 ] -     -	 Add To FileAdded: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos | C:\Users\wesle\OneDrive\Bilder\_SYNC, .png
+
+[ 06/01/2022 20:43:47 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:43:54 ] -     -	 ----------------
+
+[ 06/01/2022 20:43:54 ] -     -	 RUNNING SYNC....
+
+[ 06/01/2022 20:43:54 ] -     -	 RUNNING SYNC
+
+[ 06/01/2022 20:43:54 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:46:42 ] -     -	 --------------------File Sync V 0.1--------------------
+
+[ 06/01/2022 20:46:42 ] -     -	 ...loading successful
+
+[ 06/01/2022 20:46:42 ] -     -	 ...functions loaded
+
+[ 06/01/2022 20:46:42 ] -     -	 ...loading configs
+
+[ 06/01/2022 20:46:42 ] -     -	 SRC File Found 
+
+[ 06/01/2022 20:46:42 ] -     -	 DST File Found
+
+[ 06/01/2022 20:46:42 ] -     -	 CFG File Found
+
+[ 06/01/2022 20:46:42 ] -     -	 0/3 New Files Created
+
+[ 06/01/2022 20:46:42 ] -     -	 ...Loading Data
+
+[ 06/01/2022 20:46:42 ] -DEBUG-	 Building Menu
+
+[ 06/01/2022 20:46:42 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+
+[ 06/01/2022 20:46:45 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:46:49 ] -     -	 ----------------
+
+[ 06/01/2022 20:46:49 ] -     -	 RUNNING SYNC....
+
+[ 06/01/2022 20:46:49 ] -     -	 RUNNING SYNC
+
+[ 06/01/2022 20:46:49 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:46:57 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:46:58 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:47:25 ] -     -	 --------------------------
+
+[ 06/01/2022 20:47:25 ] -     -	 Add a new Source-Directory
+
+[ 06/01/2022 20:47:39 ] -     -	 Add To FileAdded: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos | C:\Users\wesle\OneDrive\Bilder\_SYNC, .mp4
+
+[ 06/01/2022 20:47:39 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:47:43 ] -     -	 ----------------
+
+[ 06/01/2022 20:47:43 ] -     -	 RUNNING SYNC....
+
+[ 06/01/2022 20:47:43 ] -     -	 RUNNING SYNC
+
+[ 06/01/2022 20:47:43 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:47:51 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:47:52 ] -     -	 Copy Job: 	From: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	To: Z:\Personal\Wesley Andrew Stillwell\PersonalPhotos	Type:
+
+[ 06/01/2022 20:53:02 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/01/2022 20:57:38 ] -     -	 ----------------
+
+[ 06/01/2022 20:57:38 ] -     -	 ...Shutting Down
+
+[ 06/01/2022 20:57:38 ] -     -	 .
+
+[ 06/01/2022 20:57:38 ] -     -	 ...Good Bye
+
+[ 06/01/2022 20:57:38 ] -     -	 Shutting down...
+

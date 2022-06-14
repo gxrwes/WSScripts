@@ -1,0 +1,1306 @@
+[ 05.11.2022 12:50:02 ] -DEBUG-	 6
+
+[ 05.11.2022 12:50:02 ] -     -	 Items to search: 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Starting Requests...
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 0 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462593}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462593
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8010835922 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 801083 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '801083[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 1 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=461259}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461259
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 06/6657-01 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 06/6657-01 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '06/6657-01[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 2 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462502}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462502
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: SW02000410.9005 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'SW02000410.9005[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 3 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=461134}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461134
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: S710950901.71097 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S710950901.71097[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 4 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462686}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462686
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8070079200 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 807007 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '807007[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 5 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=461266}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461266
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8074240001 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 807424 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '807424[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 6 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462838}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462838
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 06/6648-0101U 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 06/6648-0101 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '06/6648-0101[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 	Working Pair-> NFTIDNR: 654194 - NFTSTLO: 06/6648-0101U - D1_FSTL1: 06/6648-0101U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference: U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference lenth: 1 
+
+[ 05.11.2022 12:50:02 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:02 ] -     -	  - Found Valid Match - [ 1 ]: U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 7 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462684}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462684
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8070075200 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 807007 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '807007[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 8 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=461061}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461061
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: S700870203.6020 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S700870203.6020[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 9 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462733}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462733
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 06/6648-0101U 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 06/6648-0101 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '06/6648-0101[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 	Working Pair-> NFTIDNR: 654194 - NFTSTLO: 06/6648-0101U - D1_FSTL1: 06/6648-0101U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference: U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference lenth: 1 
+
+[ 05.11.2022 12:50:02 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:02 ] -     -	  - Found Valid Match - [ 1 ]: U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to U 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 10 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462848}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462848
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8931902760 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 893190 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '893190[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 11 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=461062}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461062
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: V073546-04_Stanzzeichnung 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'V073546-04_Stanzzeichnung[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 12 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462734}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462734
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: SW08030107.3002 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'SW08030107.3002[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:02 ] -     -	 FILE 13 of 35
+
+[ 05.11.2022 12:50:02 ] -     -	 Working File @{DO_IDNR=462731}
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462731
+
+[ 05.11.2022 12:50:02 ] -     -	 Loaded Document: 8043330A08 
+
+[ 05.11.2022 12:50:02 ] -     -	 Parser Result: 804333 
+
+[ 05.11.2022 12:50:02 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '804333[^0-9]%'
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 	Working Pair-> NFTIDNR: 435819 - NFTSTLO: 804333B700 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference: B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:02 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to B700 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 	Working Pair-> NFTIDNR: 442501 - NFTSTLO: 804333S001 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference: S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:02 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:02 ] -     -	  - Found Valid Match - [ 1 ]: S001 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 	Working Pair-> NFTIDNR: 177749 - NFTSTLO: 804333S002 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference: S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:02 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S002 
+
+[ 05.11.2022 12:50:02 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:02 ] -     -	  - Found Valid Match - [ 1 ]: S002 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 334400 - NFTSTLO: 804333S002.74417 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S002.74417 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 10 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference too large
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 179237 - NFTSTLO: 804333S003 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: S003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 422186 - NFTSTLO: 804333S004 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: S004 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 476492 - NFTSTLO: 804333S005 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: S005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 266958 - NFTSTLO: 804333S005.9005 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S005.9005 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 9 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference too large
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 38622 - NFTSTLO: 804333S006 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: S006 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 136902 - NFTSTLO: 804333S008 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: S008 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 179715 - NFTSTLO: 804333SA15 - D1_FSTL1: 8043330A08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 4 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to SA15 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 14 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=461260}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461260
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 16/1163-01 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 16/1163-01 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '16/1163-01[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 15 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462849}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462849
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8931903760 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 893190 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '893190[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 16 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462483}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462483
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8072785041 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 807278 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '807278[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 17 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462681}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462681
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8010835922 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 801083 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '801083[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 18 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462598}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462598
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8063400295 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 806340 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '806340[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 19 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462475}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462475
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 06/6657-01 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 06/6657-01 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '06/6657-01[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 20 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=461004}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461004
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 912/8040-0101 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '912/8040-0101[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 21 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462808}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462808
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: S700870301.7016 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S700870301.7016[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 22 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462809}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462809
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8063240099 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 806324 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '806324[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 23 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462474}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462474
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 06/6648-0101U 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 06/6648-0101 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '06/6648-0101[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 654194 - NFTSTLO: 06/6648-0101U - D1_FSTL1: 06/6648-0101U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 1 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to U 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 24 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462743}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462743
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: S042361003 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S042361003[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 25 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=460986}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 460986
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: S700870208.N5010 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S700870208.N5010[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 26 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=461152}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461152
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 1214-02-08 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '1214-02-08[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 272355 - NFTSTLO: 1214-02-08.7003 - D1_FSTL1: 1214-02-08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 5 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 40551 - NFTSTLO: 1214-02-08.7015 - D1_FSTL1: 1214-02-08 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 5 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to .7015 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 27 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=461151}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 461151
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 1214-02-07 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '1214-02-07[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 273801 - NFTSTLO: 1214-02-07.7003 - D1_FSTL1: 1214-02-07 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 5 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to .7003 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 40122 - NFTSTLO: 1214-02-07.74494 - D1_FSTL1: 1214-02-07 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 6 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to .74494 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 334091 - NFTSTLO: 1214-02-07.74501 - D1_FSTL1: 1214-02-07 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 6 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to .74501 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 28 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462685}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462685
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8070077200 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 807007 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '807007[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 29 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462814}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462814
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 12/3300-0201 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 12/3300-0201 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '12/3300-0201[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 30 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462485}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462485
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 912/8161-1001 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '912/8161-1001[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 31 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462594}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462594
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8010835923 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 801083 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '801083[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 32 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462494}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462494
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: S700870301.7016 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'S700870301.7016[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 33 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=462769}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 462769
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: SM00100200.3000 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like 'SM00100200.3000[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 	Working Pair-> NFTIDNR: 46267 - NFTSTLO: SM00100200.3000V - D1_FSTL1: SM00100200.3000 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference: V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 		Difference lenth: 1 
+
+[ 05.11.2022 12:50:03 ] -     -	 Matching Difference...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\s[a-zA-Z])$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{4})$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([a-zA-Z])$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	  - regex-matching
+
+[ 05.11.2022 12:50:03 ] -     -	  - Found Valid Match - [ 1 ]: V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(0\d)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(-\d\d)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(RO)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(U)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(FLM)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(ET1)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[A-E])$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[1-9]{1})$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.[0-9]{5})$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^(\.0\d)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 -- Matching with Phrase ^([A-Z]0\d\d)$ to V 
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Writing result to file...
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 FILE 34 of 35
+
+[ 05.11.2022 12:50:03 ] -     -	 Working File @{DO_IDNR=460808}
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 SQL-Req Q1: SELECT DO_FSTL1, DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = 460808
+
+[ 05.11.2022 12:50:03 ] -     -	 Loaded Document: 8010838921 
+
+[ 05.11.2022 12:50:03 ] -     -	 Parser Result: 801083 
+
+[ 05.11.2022 12:50:03 ] -     -	 SQL-Req Q2: SELECT * FROM NFSTAMM WHERE NFT_STL0 Like '801083[^0-9]%'
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 Working results..
+
+[ 05.11.2022 12:50:03 ] -DEBUG-	 0
+
+[ 05.11.2022 12:50:03 ] -     -	 ... done and saving to file
+
+[ 05.11.2022 12:50:03 ] -     -	 Closing SQL Connection and Shutting down
+

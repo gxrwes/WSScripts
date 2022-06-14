@@ -1,0 +1,7 @@
+#! /bin/sh
+
+ffile=/esu/loksound3/src/appl-dcc/LS3H0_V32_appl_DCC_0-0-5657.py
+efile=/esu/sounds/h0/11407-v9-br03-eeprom-h0.py
+sfile=/esu/sounds/h0/11407-v9-br03-sound-h0.img
+source /esu/bin/dummy
+

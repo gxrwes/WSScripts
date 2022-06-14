@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<esuproject version="1.0">
+	<initdata decname="LokSound V3.5" flashsize="8" version="2.6.6.277" date="19.03.2008" time="16:45:52"/>
+	<cvdata>
+		<cv id="1" value="4"/>
+		<cv id="2" value="3"/>
+		<cv id="3" value="12"/>
+		<cv id="4" value="5"/>
+		<cv id="5" value="43"/>
+		<cv id="6" value="22"/>
+		<cv id="13" value="3"/>
+		<cv id="14" value="3"/>
+		<cv id="17" value="192"/>
+		<cv id="18" value="0"/>
+		<cv id="19" value="0"/>
+		<cv id="21" value="0"/>
+		<cv id="22" value="0"/>
+		<cv id="28" value="0"/>
+		<cv id="29" value="6"/>
+		<cv id="49" value="27"/>
+		<cv id="50" value="3"/>
+		<cv id="51" value="3"/>
+		<cv id="52" value="0"/>
+		<cv id="53" value="40"/>
+		<cv id="54" value="30"/>
+		<cv id="55" value="10"/>
+		<cv id="56" value="64"/>
+		<cv id="57" value="32"/>
+		<cv id="58" value="40"/>
+		<cv id="59" value="32"/>
+		<cv id="60" value="40"/>
+		<cv id="61" value="40"/>
+		<cv id="62" value="64"/>
+		<cv id="63" value="64"/>
+		<cv id="64" value="7"/>
+		<cv id="66" value="0"/>
+		<cv id="67" value="3"/>
+		<cv id="68" value="5"/>
+		<cv id="69" value="8"/>
+		<cv id="70" value="11"/>
+		<cv id="71" value="15"/>
+		<cv id="72" value="18"/>
+		<cv id="73" value="22"/>
+		<cv id="74" value="26"/>
+		<cv id="75" value="30"/>
+		<cv id="76" value="34"/>
+		<cv id="77" value="40"/>
+		<cv id="78" value="46"/>
+		<cv id="79" value="52"/>
+		<cv id="80" value="58"/>
+		<cv id="81" value="66"/>
+		<cv id="82" value="74"/>
+		<cv id="83" value="82"/>
+		<cv id="84" value="90"/>
+		<cv id="85" value="100"/>
+		<cv id="86" value="110"/>
+		<cv id="87" value="124"/>
+		<cv id="88" value="136"/>
+		<cv id="89" value="152"/>
+		<cv id="90" value="168"/>
+		<cv id="91" value="188"/>
+		<cv id="92" value="208"/>
+		<cv id="93" value="230"/>
+		<cv id="94" value="255"/>
+		<cv id="95" value="0"/>
+		<cv id="112" value="15"/>
+		<cv id="113" value="15"/>
+		<cv id="114" value="15"/>
+		<cv id="115" value="15"/>
+		<cv id="116" value="15"/>
+		<cv id="117" value="0"/>
+		<cv id="118" value="0"/>
+		<cv id="121" value="61"/>
+		<cv id="122" value="64"/>
+		<cv id="123" value="64"/>
+		<cv id="124" value="64"/>
+		<cv id="125" value="20"/>
+		<cv id="126" value="55"/>
+		<cv id="127" value="10"/>
+		<cv id="128" value="35"/>
+		<cv id="129" value="0"/>
+		<cv id="130" value="0"/>
+		<cv id="131" value="0"/>
+		<cv id="132" value="0"/>
+		<cv id="133" value="0"/>
+		<cv id="134" value="0"/>
+		<cv id="135" value="0"/>
+		<cv id="136" value="0"/>
+		<cv id="137" value="0"/>
+		<cv id="138" value="0"/>
+		<cv id="139" value="0"/>
+		<cv id="140" value="0"/>
+		<cv id="141" value="1"/>
+		<cv id="142" value="0"/>
+		<cv id="143" value="1"/>
+		<cv id="144" value="2"/>
+		<cv id="145" value="0"/>
+		<cv id="146" value="1"/>
+		<cv id="147" value="4"/>
+		<cv id="148" value="4"/>
+		<cv id="149" value="0"/>
+		<cv id="150" value="4"/>
+		<cv id="151" value="4"/>
+		<cv id="152" value="0"/>
+		<cv id="153" value="8"/>
+		<cv id="154" value="0"/>
+		<cv id="155" value="1"/>
+		<cv id="156" value="8"/>
+		<cv id="157" value="0"/>
+		<cv id="158" value="1"/>
+		<cv id="159" value="0"/>
+		<cv id="160" value="0"/>
+		<cv id="161" value="2"/>
+		<cv id="162" value="0"/>
+		<cv id="163" value="0"/>
+		<cv id="164" value="2"/>
+		<cv id="165" value="0"/>
+		<cv id="166" value="0"/>
+		<cv id="167" value="4"/>
+		<cv id="168" value="0"/>
+		<cv id="169" value="0"/>
+		<cv id="170" value="4"/>
+		<cv id="171" value="0"/>
+		<cv id="172" value="0"/>
+		<cv id="173" value="5"/>
+		<cv id="174" value="0"/>
+		<cv id="175" value="0"/>
+		<cv id="176" value="5"/>
+		<cv id="177" value="0"/>
+		<cv id="178" value="3"/>
+		<cv id="179" value="0"/>
+		<cv id="180" value="0"/>
+		<cv id="181" value="3"/>
+		<cv id="182" value="0"/>
+		<cv id="183" value="0"/>
+		<cv id="184" value="0"/>
+		<cv id="185" value="3"/>
+		<cv id="186" value="0"/>
+		<cv id="187" value="0"/>
+		<cv id="188" value="3"/>
+		<cv id="189" value="0"/>
+		<cv id="190" value="0"/>
+		<cv id="191" value="7"/>
+		<cv id="192" value="0"/>
+		<cv id="193" value="0"/>
+		<cv id="194" value="7"/>
+		<cv id="195" value="0"/>
+		<cv id="196" value="0"/>
+		<cv id="197" value="0"/>
+		<cv id="198" value="0"/>
+		<cv id="199" value="0"/>
+		<cv id="200" value="0"/>
+		<cv id="201" value="0"/>
+		<cv id="202" value="0"/>
+		<cv id="203" value="0"/>
+		<cv id="204" value="0"/>
+		<cv id="205" value="0"/>
+		<cv id="206" value="0"/>
+		<cv id="207" value="0"/>
+		<cv id="208" value="0"/>
+		<cv id="209" value="0"/>
+		<cv id="210" value="0"/>
+		<cv id="211" value="0"/>
+		<cv id="212" value="0"/>
+		<cv id="213" value="0"/>
+		<cv id="214" value="0"/>
+		<cv id="215" value="0"/>
+		<cv id="216" value="0"/>
+		<cv id="217" value="0"/>
+		<cv id="218" value="0"/>
+		<cv id="219" value="0"/>
+		<cv id="220" value="0"/>
+		<cv id="221" value="0"/>
+		<cv id="222" value="0"/>
+		<cv id="223" value="0"/>
+		<cv id="224" value="0"/>
+		<cv id="225" value="0"/>
+		<cv id="226" value="0"/>
+		<cv id="227" value="0"/>
+		<cv id="228" value="0"/>
+		<cv id="229" value="0"/>
+		<cv id="230" value="0"/>
+		<cv id="231" value="0"/>
+		<cv id="232" value="0"/>
+		<cv id="233" value="0"/>
+		<cv id="234" value="0"/>
+		<cv id="235" value="0"/>
+		<cv id="236" value="0"/>
+		<cv id="237" value="0"/>
+		<cv id="238" value="0"/>
+		<cv id="239" value="0"/>
+		<cv id="240" value="0"/>
+		<cv id="241" value="0"/>
+		<cv id="242" value="0"/>
+		<cv id="243" value="0"/>
+		<cv id="244" value="0"/>
+		<cv id="245" value="0"/>
+		<cv id="246" value="0"/>
+		<cv id="247" value="0"/>
+		<cv id="248" value="0"/>
+		<cv id="249" value="0"/>
+		<cv id="250" value="0"/>
+		<cv id="251" value="0"/>
+		<cv id="252" value="0"/>
+		<cv id="253" value="0"/>
+		<cv id="254" value="0"/>
+		<cv id="255" value="0"/>
+	</cvdata>  <meta>
+    <name>
+      <de/>
+      <en/>
+    </name>
+    <manufacturer name=""/>
+    <project id="" version=""/>
+    <traintype id="0">
+      <de>Dampf</de>
+      <en>Steam</en>
+    </traintype>
+    <description>
+      <de/>
+      <en/>
+    </description>
+    <functions>
+      <key id="F0 (f)">
+        <de>Licht vorn</de>
+        <en>Front light</en>
+      </key>
+      <key id="F0 (r)">
+        <de>Licht hinten</de>
+        <en>Rear light</en>
+      </key>
+      <key id="F1 (f)">
+        <de>AUX1, Sound ein/aus</de>
+        <en>AUX1, Sound on/off</en>
+      </key>
+      <key id="F1 (r)">
+        <de>AUX1, Sound ein/aus</de>
+        <en>AUX1, Sound on/off</en>
+      </key>
+      <key id="F2 (f)">
+        <de>AUX2</de>
+        <en>AUX2</en>
+      </key>
+      <key id="F2 (r)">
+        <de>AUX2</de>
+        <en>AUX2</en>
+      </key>
+      <key id="F3 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F3 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F4 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F4 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F5 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F5 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F6 (f)">
+        <de>Beschleunigungs-/Bremszeit, Rangiergang</de>
+        <en>Acceleration/brake time, Shuting Mode/Shunting speed</en>
+      </key>
+      <key id="F6 (r)">
+        <de>Beschleunigungs-/Bremszeit, Rangiergang</de>
+        <en>Acceleration/brake time, Shuting Mode/Shunting speed</en>
+      </key>
+      <key id="F7 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F7 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F8 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F8 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F9 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F9 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F10 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F10 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F11 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F11 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F12 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F12 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F13 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F13 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F14 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F14 (r)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F15 (f)">
+        <de/>
+        <en/>
+      </key>
+      <key id="F15 (r)">
+        <de/>
+        <en/>
+      </key>
+      <random id="0">
+        <de/>
+        <en/>
+      </random>
+      <random id="1">
+        <de/>
+        <en/>
+      </random>
+      <random id="2">
+        <de/>
+        <en/>
+      </random>
+      <random id="3">
+        <de/>
+        <en/>
+      </random>
+      <random id="4">
+        <de/>
+        <en/>
+      </random>
+      <random id="5">
+        <de/>
+        <en/>
+      </random>
+      <random id="6">
+        <de/>
+        <en/>
+      </random>
+      <random id="7">
+        <de/>
+        <en/>
+      </random>
+      <random id="8">
+        <de/>
+        <en/>
+      </random>
+      <random id="9">
+        <de/>
+        <en/>
+      </random>
+      <random id="10">
+        <de/>
+        <en/>
+      </random>
+      <random id="11">
+        <de/>
+        <en/>
+      </random>
+      <random id="12">
+        <de/>
+        <en/>
+      </random>
+      <random id="13">
+        <de/>
+        <en/>
+      </random>
+      <random id="14">
+        <de/>
+        <en/>
+      </random>
+      <random id="15">
+        <de/>
+        <en/>
+      </random>
+      <user id="0">
+        <de/>
+        <en/>
+      </user>
+      <user id="1">
+        <de/>
+        <en/>
+      </user>
+      <user id="2">
+        <de/>
+        <en/>
+      </user>
+      <user id="3">
+        <de/>
+        <en/>
+      </user>
+      <user id="4">
+        <de/>
+        <en/>
+      </user>
+      <user id="5">
+        <de/>
+        <en/>
+      </user>
+      <user id="6">
+        <de/>
+        <en/>
+      </user>
+      <user id="7">
+        <de/>
+        <en/>
+      </user>
+      <user id="8">
+        <de/>
+        <en/>
+      </user>
+      <user id="9">
+        <de/>
+        <en/>
+      </user>
+      <user id="10">
+        <de/>
+        <en/>
+      </user>
+      <user id="11">
+        <de/>
+        <en/>
+      </user>
+      <user id="12">
+        <de/>
+        <en/>
+      </user>
+      <user id="13">
+        <de/>
+        <en/>
+      </user>
+      <user id="14">
+        <de/>
+        <en/>
+      </user>
+      <user id="15">
+        <de/>
+        <en/>
+      </user>
+    </functions>
+    <picture></picture>
+  </meta>
+  <sound>
+    <config>
+      <param index="0" value="1"/>
+      <param index="1" value="0"/>
+      <param index="2" value="128"/>
+      <param index="3" value="0"/>
+      <param index="4" value="3"/>
+      <param index="5" value="80"/>
+      <param index="6" value="40"/>
+      <param index="7" value="60"/>
+      <param index="8" value="0"/>
+      <param index="9" value="0"/>
+      <param index="10" value="0"/>
+      <param index="11" value="0"/>
+      <param index="12" value="0"/>
+      <param index="13" value="0"/>
+      <param index="14" value="0"/>
+      <param index="15" value="0"/>
+      <param index="16" value="255"/>
+      <param index="17" value="0"/>
+      <param index="18" value="30"/>
+      <param index="19" value="0"/>
+      <param index="20" value="1"/>
+      <param index="21" value="1"/>
+      <param index="22" value="1"/>
+      <param index="23" value="1"/>
+      <param index="24" value="15"/>
+      <param index="25" value="16"/>
+      <param index="26" value="2"/>
+      <param index="27" value="1"/>
+      <param index="28" value="241"/>
+      <param index="29" value="240"/>
+      <param index="30" value="255"/>
+      <param index="31" value="254"/>
+      <param index="32" value="0"/>
+      <param index="33" value="0"/>
+      <param index="34" value="0"/>
+      <param index="35" value="0"/>
+      <param index="36" value="0"/>
+      <param index="37" value="0"/>
+      <param index="38" value="0"/>
+      <param index="39" value="0"/>
+      <param index="40" value="0"/>
+      <param index="41" value="0"/>
+      <param index="42" value="0"/>
+      <param index="43" value="0"/>
+      <param index="44" value="0"/>
+      <param index="45" value="0"/>
+      <param index="46" value="0"/>
+      <param index="47" value="0"/>
+      <param index="48" value="0"/>
+      <param index="49" value="0"/>
+      <param index="50" value="0"/>
+      <param index="51" value="0"/>
+      <param index="52" value="0"/>
+      <param index="53" value="0"/>
+      <param index="54" value="0"/>
+      <param index="55" value="0"/>
+      <param index="56" value="0"/>
+      <param index="57" value="0"/>
+      <param index="58" value="0"/>
+      <param index="59" value="0"/>
+      <param index="60" value="0"/>
+      <param index="61" value="0"/>
+      <param index="62" value="0"/>
+      <param index="63" value="0"/>
+      <param index="64" value="0"/>
+      <param index="65" value="0"/>
+      <param index="66" value="0"/>
+      <param index="67" value="0"/>
+      <param index="68" value="0"/>
+      <param index="69" value="0"/>
+      <param index="70" value="0"/>
+      <param index="71" value="0"/>
+      <param index="72" value="0"/>
+      <param index="73" value="0"/>
+      <param index="74" value="0"/>
+      <param index="75" value="0"/>
+      <param index="76" value="0"/>
+      <param index="77" value="0"/>
+      <param index="78" value="0"/>
+      <param index="79" value="0"/>
+      <param index="80" value="0"/>
+      <param index="81" value="0"/>
+      <param index="82" value="0"/>
+      <param index="83" value="0"/>
+      <param index="84" value="0"/>
+      <param index="85" value="0"/>
+      <param index="86" value="0"/>
+      <param index="87" value="0"/>
+      <param index="88" value="0"/>
+      <param index="89" value="0"/>
+      <param index="90" value="0"/>
+      <param index="91" value="0"/>
+      <param index="92" value="0"/>
+      <param index="93" value="0"/>
+      <param index="94" value="0"/>
+      <param index="95" value="0"/>
+      <param index="96" value="0"/>
+      <param index="97" value="0"/>
+      <param index="98" value="0"/>
+      <param index="99" value="0"/>
+      <param index="100" value="0"/>
+      <param index="101" value="0"/>
+      <param index="102" value="0"/>
+      <param index="103" value="0"/>
+      <param index="104" value="0"/>
+      <param index="105" value="0"/>
+      <param index="106" value="0"/>
+      <param index="107" value="0"/>
+      <param index="108" value="0"/>
+      <param index="109" value="0"/>
+      <param index="110" value="0"/>
+      <param index="111" value="0"/>
+      <param index="112" value="0"/>
+      <param index="113" value="0"/>
+      <param index="114" value="0"/>
+      <param index="115" value="0"/>
+      <param index="116" value="0"/>
+      <param index="117" value="0"/>
+      <param index="118" value="0"/>
+      <param index="119" value="0"/>
+      <param index="120" value="0"/>
+      <param index="121" value="0"/>
+      <param index="122" value="0"/>
+      <param index="123" value="0"/>
+      <param index="124" value="0"/>
+      <param index="125" value="0"/>
+      <param index="126" value="0"/>
+      <param index="127" value="0"/>
+    </config>
+  </sound>
+</esuproject>
