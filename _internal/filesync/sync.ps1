@@ -11,9 +11,9 @@ $Wlogx += "File Sync V$version"
 $Wlogx += "--------------------" 
 
 # Import Functions 
-. "$env:scripts\BaseFuncs\UserIO.ps1"
-. "$env:scripts\BaseFuncs\WLog.ps1"
-. "$env:scripts\BaseFuncs\Misc.ps1"
+. "..\UserIO.ps1"
+. "..\WLog.ps1"
+. "..\Misc.ps1"
 
 $Wlog = WL_InitializeLog("File Sync V$version")
 
