@@ -5,8 +5,8 @@ echo OBSOLETE
 # Determine how time period for change
 $hrsSince = 1
 
-$Path = "\\sbgmain01\bmmatrix$\Artikelfotos"
-$DestinationPath = "\\megplm01\tricold\PRODUKTFOTO"
+$Path = ""
+$DestinationPath = ""
 $FolderExtension = "\*"
 $TotalPath = $Path + $FolderExtension
 

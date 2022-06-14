@@ -21,7 +21,7 @@ $Wlog = WL_InitializeLog("Link to Similar")
 # Anlegen der Datenquelle, also Server\Instanz            
 $SQLServer = “megsql02”             
 # Benutzer zum Verbinden            
-$User = “anw”                
+$User = “”                
 # Passwort zum Verbinden - make user imput for securrity reasons          
 $Password = UserInputPassword("Input Password for Database $SQLServer as User $User :")            
 # Datenbank zum Verbinden - set to profile for default          

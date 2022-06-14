@@ -126,3 +126,122 @@
 	[3]	Exit
 
 
+[ 06/14/2022 16:26:15 ] -     -	 -------------------------------
+
+[ 06/14/2022 16:26:15 ] -     -	 Dumping Log 
+
+[ 06/14/2022 16:26:15 ] -     -	 -------------------------------
+
+[ 06/14/2022 16:26:15 ] -     -	 
+ |STARTING WLOG FOR: File Sync V1 
+|	Date: 06/14/2022 16:25 +02:00
+|-------------------------------------
+[ 06/14/2022 16:25:34 ] -     -	 --------------------File Sync V1--------------------
+[ 06/14/2022 16:25:34 ] -     -	 ...loading successful
+[ 06/14/2022 16:25:34 ] -     -	 ...functions loaded
+[ 06/14/2022 16:25:34 ] -     -	 ...loading configs
+[ 06/14/2022 16:25:34 ] -     -	 SRC File Found 
+[ 06/14/2022 16:25:34 ] -     -	 DST File Found
+[ 06/14/2022 16:25:34 ] -     -	 CFG File Found
+[ 06/14/2022 16:25:34 ] -     -	 0/3 New Files Created
+[ 06/14/2022 16:25:34 ] -     -	 ...Loading Data
+[ 06/14/2022 16:25:34 ] -DEBUG-	 Building Menu
+[ 06/14/2022 16:25:34 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+[ 06/14/2022 16:25:37 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+[ 06/14/2022 16:25:43 ] -     -	 ----------------
+[ 06/14/2022 16:25:43 ] -     -	 RUNNING SYNC....
+[ 06/14/2022 16:25:57 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+ 
+
+[ 06/14/2022 16:26:15 ] -     -	 -------------------------------
+
+[ 06/14/2022 16:26:15 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/14/2022 16:26:36 ] -     -	 ----------------
+
+[ 06/14/2022 16:26:36 ] -     -	 ...Shutting Down
+
+[ 06/14/2022 16:26:36 ] -     -	 .
+
+[ 06/14/2022 16:26:36 ] -     -	 ...Good Bye
+
+[ 06/14/2022 16:26:36 ] -     -	 Shutting down...
+
+[ 06/14/2022 16:37:21 ] -     -	 --------------------File Sync V1--------------------
+
+[ 06/14/2022 16:37:21 ] -     -	 ...loading successful
+
+[ 06/14/2022 16:37:21 ] -     -	 ...functions loaded
+
+[ 06/14/2022 16:37:21 ] -     -	 ...loading configs
+
+[ 06/14/2022 16:37:21 ] -     -	 SRC File Found 
+
+[ 06/14/2022 16:37:21 ] -     -	 DST File Found
+
+[ 06/14/2022 16:37:21 ] -     -	 CFG File Found
+
+[ 06/14/2022 16:37:21 ] -     -	 0/3 New Files Created
+
+[ 06/14/2022 16:37:21 ] -     -	 ...Loading Data
+
+[ 06/14/2022 16:37:21 ] -DEBUG-	 Building Menu
+
+[ 06/14/2022 16:37:21 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+
+[ 06/14/2022 16:37:24 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+
+[ 06/14/2022 16:38:23 ] -     -	 --------------------File Sync V1--------------------
+
+[ 06/14/2022 16:38:23 ] -     -	 ...loading successful
+
+[ 06/14/2022 16:38:23 ] -     -	 ...functions loaded
+
+[ 06/14/2022 16:38:23 ] -     -	 ...loading configs
+
+[ 06/14/2022 16:38:23 ] -     -	 SRC File Found 
+
+[ 06/14/2022 16:38:23 ] -     -	 DST File Found
+
+[ 06/14/2022 16:38:23 ] -     -	 CFG File Found
+
+[ 06/14/2022 16:38:23 ] -     -	 0/3 New Files Created
+
+[ 06/14/2022 16:38:23 ] -     -	 ...Loading Data
+
+[ 06/14/2022 16:38:23 ] -DEBUG-	 Building Menu
+
+[ 06/14/2022 16:38:23 ] -DEBUG-	 READY LAUNCHING IN 3 SECONDS
+
+[ 06/14/2022 16:38:26 ] -     -	 
+	| What Do You Wanna Do? |
+	[0]	Run Sync
+	[1]	Add new Copy Job
+	[2]	SHOW Log
+	[3]	Exit
+
+

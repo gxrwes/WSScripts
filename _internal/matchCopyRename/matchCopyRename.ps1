@@ -54,7 +54,7 @@ if($userExtension.Length -gt 0)
 If ($userRegex.Length -lt 1)
 {
     $Wlog += WL_Log "Regex: default" 1
-    $regexPattern = "^([0-9]{5,6}).*"
+    $regexPattern = "^().*"
 }
 else
 {

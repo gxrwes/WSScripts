@@ -10,9 +10,8 @@
 #
 
 # Usability Functions - copied from others cos wes doesnt know how to use a remote "class"
-. "C:\Users\w.stillwell\OneDrive - MEG\Dokumente\TestScripts\BaseFuncs\UserIO.ps1"
-
-. "C:\Users\w.stillwell\OneDrive - MEG\Dokumente\TestScripts\BaseFuncs\WLog.ps1"
+. "UserIO.ps1"
+. "WLog.ps1"
 
 function Compare-String {
     # SRC: https://stackoverflow.com/questions/25169424/using-powershell-to-find-the-differences-in-strings 
@@ -35,13 +34,13 @@ function Compare-String {
 # ------------
 
 # Anlegen der Datenquelle, also Server\Instanz            
-$SQLServer = “megsql02”             
+$SQLServer = “”             
 # Benutzer zum Verbinden            
-$User = “anw”                
+$User = “”                
 # Passwort zum Verbinden - make user imput for securrity reasons          
 $Password = UserInputPassword("Input Password for Database $SQLServer as User $User :")            
 # Datenbank zum Verbinden - set to profile for default          
-$Datenbank = “profile"            
+$Datenbank = “"            
  
 # Befehl zum späteren Verbinden zum Server            
 $Connect_String = “Server=$SQLServer;uid=$User; pwd=$Password;Database=$Datenbank;Integrated Security=false;” 
@@ -54,7 +53,7 @@ $SqlConnection_Object.ConnectionString = $Connect_String
 $SqlConnection_Object.Open()            
             
 # Open input CSV
-$ImportCsv = Import-Csv -Path 'C:\Users\w.stillwell\OneDrive - MEG\Dokumente\TestScripts\sqlpushertimer\input\input.csv' 
+$ImportCsv = Import-Csv -Path '\input\input.csv' 
 
 # USER INPUT
 $sleepTimer = UserInput("Input sleep timer (in S) for delay between Updates")
@@ -99,7 +98,7 @@ foreach($SQLLine in $ImportCsv){
             $_counter++
             $Wlog += WL_LOG "...attempt[$_counter]" 1
             
-            $Q = “SELECT DO_FSTL2 FROM DOKSTAMM WHERE DO_IDNR = $DO_IDNR”
+            $Q = “SELECT*FROM .WHERE DO_IDNR = $DO_IDNR”
             $Wlog += WL_LOG "`tSQL-Req Q1: $Q" 0
             # Command Objekt für Befehle erstellen            
             $Q1 = $SqlConnection_Object.CreateCommand()            

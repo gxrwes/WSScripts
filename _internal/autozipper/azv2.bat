@@ -9,7 +9,7 @@ colour %SOURCEFOLDER%%TARGETFOLDER%
 
 $TargetPath = Read-Host -Prompt "Enter Path"
 $TargetFileName = Read-Host -Prompt "Enter preferred Zip name"
-$DestinationPath = "C:\Users\w.stillwell\OneDrive - MEG\Dokumente\TestScripts\autozipper\$($TargetFileName)"
+$DestinationPath = "\$($TargetFileName)"
 
 echo WORKING...
 
